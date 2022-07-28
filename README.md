@@ -47,7 +47,7 @@
 - Internet connection
 
 ## Installation
-Install Eva watching video that given above.
+Install Eva following steps in steps.txt and watching EvaSetUp.wmw video from installation folder .
 
 
 ## Development
