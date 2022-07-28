@@ -1,0 +1,49 @@
+ _______   ___      ___ ________     
+|\  ___ \ |\  \    /  /|\   __  \    
+\ \   __/|\ \  \  /  / | \  \|\  \   
+ \ \  \_|/_\ \  \/  / / \ \   __  \  
+  \ \  \_|\ \ \    / /   \ \  \ \  \ 
+   \ \_______\ \__/ /     \ \__\ \__\
+    \|_______|\|__|/       \|__|\|__|
+
+
+
+1	Make sure you have pip installed. If not reinstall python with pip
+2	Create your Telegram bot using @Botfather copy API TOKEN to somewhere and start it.
+3	Send /setcommands to @Botfather , select your bot, send the following text 
+		start -⭐️ Refresh Bot 
+		specs -⚙️ Specifications Of Computer 
+		ip -🌎 IP  Address Of Computer 
+		webcam - 📷 Take a Photo 
+		record -  🎤 Record Audio
+		screenshot -👀 Take Screenshot 
+		running - 📱 Running Apps
+		close - 📱 Close App 
+		message -✉️ Display Message 
+		input - 📩 Display Input 
+		url - 🌐Open URL or Google Search 
+		cmd - 💻 Execute Cmd Command 
+		python -🐍 Execute Python Code 
+		chrome - 🌐 See Chrome Browser History 
+		delete_chrome -🗑 Delete Chrome Browsing History 
+		wallpaper -🖼 Set Wallpaper 
+		lock -🔒 Lock Screen 
+		hibernate -💤 Hibernate Computer 
+		shutdown -🔌 Shutdown Computer 
+		restart -🔄  Restart Computer 
+		logout -🗑 Sign Out
+4	Type @My_ID_bot and click appeared button. Copy your Telegram ID to somewhere
+5	Turn off Antivirus
+6	Install Eva with password: EvaPass
+7	Add C:\Program Files (x86)\EVA Folder to Excluded folders list in Antivirus
+8	Turn on Antivirus
+9	Right Click EVA on Desktop and choose Run as Administrator 
+10	Wait a few seconds until it installs important python packages 
+11	When input appears paste your bot's API TOKEN and click OK 
+12	Paste your Telegram ID (You can find your Telegram ID 
+13	Wait for a few seconds 
+14	Done, You got a message from your bot.
+15	Press [WindowsKey]+[R] and type 'shell:startup'
+16	Move your EVA shortcut from the desktop to opened folder.
+17	That's it!
+18	Your telegram bot will always run if your computer is on from now :)
