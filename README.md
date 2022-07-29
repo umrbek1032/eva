@@ -9,11 +9,11 @@
 ## No one can use your telegram bot without your telegram account.
 ## Features
 
-- ⚙️ See Specifications  of computer
-- 🌎 See IP Address of computer
+- ⚙️ See Specifications  of the computer
+- 🌎 See the IP Address of the computer
 - 📷 Take a Photo
 - 🎤 Record Audio
-- 👀 Take Screenshot
+- 👀 Take a Screenshot
 - 📱 List of Running Apps
 - 📱 Close App or process
 - - Be careful to kill app or process . It may cause your system crash.
@@ -47,6 +47,8 @@
 - Internet connection
 
 ## Installation
+Stop your antivirus before you download EvaSetUp1.1.exe
+Because Antiviruses detects this program as a virus.
 Install Eva following steps in steps.txt and watching EvaSetUp.wmw video from installation folder .
 
 
