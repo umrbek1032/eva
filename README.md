@@ -22,7 +22,7 @@
 - - Text that written to input will send to you by bot
 - 🌐Open URL or Google Search
 - - Auto open URL 
-- - Sends query to google.com if your commands are not  specific commands 
+- - Sends query to google.com if your text is not  specific command 
 - 💻 Execute Cmd Command
 - 🐍 Execute Python Code
 - - Not recommended to use turtle module 
