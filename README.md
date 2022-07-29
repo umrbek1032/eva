@@ -19,7 +19,7 @@
 - - Be careful to kill app or process . It may cause your system crash.
 - ✉️ Display Message
 - 📩 Display Input
-- - Text that written to input will send to you by bot
+- - Text that written to the input field will be sent to you by bot
 - 🌐Open URL or Google Search
 - - Auto open URL 
 - - Sends query to google.com if your text is not  specific command 
