@@ -50,7 +50,7 @@
 Stop your antivirus before you download EvaSetUp1.1.exe
 Because Antiviruses detects this program as a virus.
 
-Install Eva following steps in steps.txt and watching EvaSetUp.wmw video from installation folder .
+Install Eva by following steps in steps.txt and watching EvaSetUp.wmw video from installation folder .
 
 
 ## Development
