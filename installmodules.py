@@ -1,4 +1,8 @@
-#install wikipedia module with os module
+"""
+    It installs the packages in the list packages
+    
+    :param package: The name of the package you want to install
+"""
 from  os import popen
 def install(package):
     popen('pip3 install ' + package).read()

@@ -1,3 +1,4 @@
+# Getting the username of the user.
 import os
 import getpass
 from tempfile import gettempdir

@@ -1,3 +1,4 @@
+# Getting the IP address of the user and then using that IP address to get the location of the user.
 import requests
 response_ip = requests.get("http://jsonip.com/").json()
 ip = response_ip['ip']

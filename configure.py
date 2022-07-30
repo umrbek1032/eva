@@ -1,3 +1,4 @@
+# Asking for the token and chat id and then writing it to the config.py file.
 from tkinter.simpledialog import askstring
 import os 
 
